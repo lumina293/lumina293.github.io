@@ -58,6 +58,7 @@ i {
   height: 7px;
 }
 
+/* Create a  vertical line */
 .certificate-vr {
   position: absolute;
   left: 50%;
